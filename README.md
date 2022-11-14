@@ -1,5 +1,7 @@
 
-# Test
+# Readme File Generator
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
   
 ## Table Of Contents
   - [Project Description](#Description)
@@ -11,19 +13,19 @@
   - [Questions](#Questions)
   
 ## Description
-  This is a test
+  This application generates a professional readme file.
 
 ## Installation
-  Just need inquirer installed
+  This application requires node and inquirer
 
 ## Usage
-  answer prompts and readme is generated
+  Answer the prompts and readme file will be generated 
 
 ## License
-  MIT
+  License under the [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) license
 
 ## Contribution
-  Recommendations welcome
+  Any recommendations contact information is provided below.
 
 ## Tests
   n/a
@@ -31,6 +33,6 @@
 ## Questions
  *Any questions please contact me*
   
-  cwalk280@yahoo.com
-
   [Cherie2](https://github.com/Cherie2)
+
+  cwalk280@yahoo.com
