@@ -18,7 +18,7 @@ const questions = [
       {
         type: 'input',
         name: 'installation',
-        message: 'How do you install application?',
+        message: 'Any instructions for installing application or required packages to run application?',
       },
       {
         type: 'input',
@@ -33,7 +33,7 @@ const questions = [
       {
         type: 'input',
         name: 'tests',
-        message: 'How to run tests?',
+        message: 'Any instructions for tests?',
       },
       {
         type: 'input',

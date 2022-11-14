@@ -29,7 +29,7 @@ function renderLicenseLink(license) {
 //Function that returns the license section of README
 function renderLicenseSection(license) {
   if(license){
-    return `License under the ${renderLicenseLink(license)} license`
+    return `Licensed under the ${renderLicenseLink(license)} license`
   }else{
     return ""
   }
@@ -73,7 +73,7 @@ ${renderLicenseBadge(data.license)}
   ${data.tests}
 
 ## Questions
- *Any questions please contact me*
+ *Any questions please contact me through email*
   
   [${data.GitHub}](https://github.com/${data.GitHub})
 
